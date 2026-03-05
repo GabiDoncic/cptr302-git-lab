@@ -4,3 +4,6 @@ I am a third year computer science student.
 My favorite sports are soccer and basketball.
 
 I was born and raised in Massachusetts. My family is from Brazil.
+
+I was born and raised in Massachusetts.
+I graduated high school in 2023.
